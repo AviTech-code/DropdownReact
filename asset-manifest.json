@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AviTech-code/DropdownReact/static/css/main.c0559f68.css",
+    "main.js": "/AviTech-code/DropdownReact/static/js/main.cc56dde4.js",
+    "index.html": "/AviTech-code/DropdownReact/index.html",
+    "main.c0559f68.css.map": "/AviTech-code/DropdownReact/static/css/main.c0559f68.css.map",
+    "main.cc56dde4.js.map": "/AviTech-code/DropdownReact/static/js/main.cc56dde4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0559f68.css",
+    "static/js/main.cc56dde4.js"
+  ]
+}
