@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import '../index.css';
 
 const Dropdown = ({ items }) => {
+    //using useState hooks to manage state
     const [isOpen, setIsOpen] = useState(true);
 
     const toggleDropdown = () => {
